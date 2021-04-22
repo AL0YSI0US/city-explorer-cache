@@ -45,3 +45,4 @@ class Weather {
     this.time = day.datetime;
   }
 }
+
