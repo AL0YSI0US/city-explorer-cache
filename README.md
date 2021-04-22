@@ -16,9 +16,9 @@
 
 ````bash
 ✔️ cloned repository
-✔️ ran `npm init`
-✔️ installed the needed dependencies `dotenv`, `express` & `cors`
-✔️ created `.env` file
+✔️ ran npm init
+✔️ installed the needed dependencies dotenv, express & cors
+✔️ created .env file
 ✔️ added weatherbit api key
 ✔️ got the sever to listen on the correct port 3002
 ❌ http://localhost:3002/weather printed the following errors:
