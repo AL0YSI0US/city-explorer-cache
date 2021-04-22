@@ -34,12 +34,9 @@
     at Function.process_params (/home/aloysious/codeFellows/301/labs/city-explorer-cache/node_modules/express/lib/router/index.js:335:12)
     at next (/home/aloysious/codeFellows/301/labs/city-explorer-cache/node_modules/express/lib/router/index.js:275:10)
     at cors (/home/aloysious/codeFellows/301/labs/city-explorer-cache/node_modules/cors/lib/index.js:188:7)
-```
 ````
 
-
 <h2 align="center">⏰ T I M E . E S T I M A T E S</h2>
-
 
 ## ⚙️ **Performance** : Feature One
 
@@ -65,14 +62,12 @@ Finish time: _____
 Actual time needed to complete: _____
 ```
 
-
 ## Resources
 
 + [Node JS Docs](https://nodejs.org/en/)
 + [NPM JS Docs](https://docs.npmjs.com/)
 + [Express JS Docs](http://expressjs.com/en/4x/api.html)
 + [dotenv Docs](https://www.npmjs.com/package/dotenv)
-
 
 [Reflections ⇒](reflections.md)
 
