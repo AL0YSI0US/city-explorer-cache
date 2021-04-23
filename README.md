@@ -8,7 +8,7 @@
 
 **Languages :** JavaScript | HTML | CSS | Markdown
 
-**Libraries :** Node
+**Dependencies:** Node | Cors |  Express | Dotenv
 
 **Tools :** VS Code | GitHub | Trello
 
@@ -68,6 +68,18 @@ Actual time needed to complete: _____
 + [NPM JS Docs](https://docs.npmjs.com/)
 + [Express JS Docs](http://expressjs.com/en/4x/api.html)
 + [dotenv Docs](https://www.npmjs.com/package/dotenv)
+
+
+### URL query parameters to check if data is captured:
+
+````html
+// WEATHER DATA : {operational locally on this server}
+http://localhost:3002/weather?lat=47.6062&lon=-122.3321
+
+// MOVIE DATA : {will be configured on my frond end} 
+http://localhost:3002/movies?search&location=seattle 
+````
+
 
 [Reflections ⇒](reflections.md)
 
